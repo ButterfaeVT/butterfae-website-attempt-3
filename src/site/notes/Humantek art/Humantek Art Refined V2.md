@@ -9,19 +9,19 @@ Humantek is an art company that seems to have a lot of shady practices.  I have 
 # People I Interviewed About HTA
 In order to give the most accurate information I can in this document, I have talked to a wide variety of people who have either commissioned HTA, been contacted by them, or are artists themselves.  Some of these people wish to remain anonymous so I have used aliases in their case, but I have given links to everyone who was willing to be named in this project of mine.
 
-| Name                                           | Interaction               |
-| ---------------------------------------------- | ------------------------- |
-| StillChris                                     | Client                    |
-| HimmyVT                                        | Client                    |
-| NochuVT                                        | Artist, Contacted         |
-| Spaceman                                       | Client                    |
-| Nix                                            | Artist, Initiated Contact |
-| Puppers                                        | Client                    |
-| Brent                                          | Contacted                 |
-| Atty?                                          | Artist                    |
-| Wooien?                                        | Artist                    |
-| Herky_Lee(create alias, wants to be anonymous) | Client                    |
-| Misc                                           | No interaction            |
+| Name            | Interaction               |
+| --------------- | ------------------------- |
+| StillChris      | Client                    |
+| HimmyVT         | Client                    |
+| NochuVT         | Artist, Contacted         |
+| Spaceman(Alias) | Client                    |
+| Nix             | Artist, Initiated Contact |
+| Puppers         | Client                    |
+| Brent           | Contacted                 |
+| Atty?           | Artist                    |
+| Wooien?         | Artist                    |
+| Big Guy(Alias)  | Client                    |
+| Misc            | No interaction            |
 
 
 # My Main Problems with Humantek
@@ -41,7 +41,7 @@ In another instance, Himmy VT commissioned [3 items](Himmy's%20Commission) for a
 Humantek Artists also will often discounts saying that they are giving a huge discount just for you and not to tell other people in some cases(link Hoshi's SS).  These discounts often don't even bring the price down to the same level as the other prices I was able to find on sites as shown above.
 
 ## Artists Are Pushy and Keep Doorknocking Comms Even If You Say You Are Uninterested
-Many HumanTek artists will doorknock commissions even if you tell them that you aren't interested.  This has happened to [Me,](Doorknocking%20Me) [Nochu,](Nochu%20HTA%20DM%20List) [Brent,](Doorknocking%20Brent) and I would bet that its happened to many other people.  They will strike up conversations with people in twitch chats or a shared server if they think they can get a comm from them.  
+Many HumanTek artists will doorknock commissions even if you tell them that you aren't interested.  This has happened to [Me,](https://docs.google.com/document/d/1JWadgwXXfZwfSNXrIdoJKvumO8PRSvzRX36ksa9XET4/edit?usp=drive_link) [Nochu,](Nochu%20HTA%20DM%20List) [Brent,](Doorknocking%20Brent) and I would bet that its happened to many other people.  They will strike up conversations with people in twitch chats or a shared server if they think they can get a comm from them.  
 
 ## The Company is Supportive of AI
 in a [blog post](https://humantekart.com/increasing-role-of-ai-in-the-animation-industry/) from their website on April 19th 2023, they say that AI has been movies as far back as the [2000's](AI%20in%20the%20early%202000s.png) with good reception.  I did some digging on this topic and came up empty, so this may be referencing depictions of AI such as the AI in A Space Odyssey, but this doesn't make much sense to me either.  They also said that artists [shouldn't fear the progress of AI in art](AI%20not%20be%20feared,%20Sparks%20Creativity.png) as it is more likely to spark creativity and innovation.  
