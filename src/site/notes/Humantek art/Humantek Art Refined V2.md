@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/humantek-art/humantek-art-refined-v2/","tags":["gardenEntry"]}
 ---
 
-[Trying something new](https://media.discordapp.net/attachments/1226123480064458865/1275717320836255818/image.png?ex=66c6e7d6&is=66c59656&hm=482348347d44d4f4b27529ef7b8151ddb619aad8390c4b60cae5fab40b590434&=&format=webp&quality=lossless&width=732&height=429)
-
 
 #Humantekart 
 Humantek is an art company that seems to have a lot of shady practices.  I have personally had a few issues with them, but after 3 of my friends overpaid for art from them that was well below their expectations, I decided to look into them a bit and once I started, it just seemed to look worse and worse at every turn.  I've decided to compile what I've found through browsing their websites, their social medias, and interviewing other people who have interacted with them in order to share my conclusions, but also to let potential clients of theirs draw their own more informed conclusions.
@@ -30,7 +28,7 @@ In order to give the most accurate information I can in this document, I have ta
 In this category, I will outline the most problematic things that I found while looking into the company.
 
 ## Tracing Art
-Human Tek seems to trace a portion of their art.  Whether this is directly from the references given to them or from a template seems to vary, but the biggest example I have is when HimmyVT ordered from them, his reference emotes were copied almost 1-1.  The [emote](Himmy%20Emote%20Static.png) he paid for copies the hair, eyes, facial structure, and mouth from the [this emote,](HimmyWow.png) which he provided as a reference.  I've overlaid the two images [here.](Ref%20and%20Emote%20overlaid.png)  The [BRB Screen](brb%20by%20bella.mp4) and the [Ending Soon](ending%20soon%20by%20bella.mp4) also draw heavily from this emote as well as another [reference](HimmySnuggly.png) he provided to the artist.  When confronted with this fact, they said it was because he [wanted the same](Wanted%20the%20same.png) which he never indicated.
+Human Tek seems to trace a portion of their art.  Whether this is directly from the references given to them or from a template seems to vary, but the biggest example I have is when HimmyVT ordered from them, his reference emotes were copied almost 1-1.  The [[Himmy Emote Static.png|emote]] he paid for copies the hair, eyes, facial structure, and mouth from the [this emote,](HimmyWow.png) which he provided as a reference.  I've overlaid the two images [here.](Ref%20and%20Emote%20overlaid.png)  The [BRB Screen](brb%20by%20bella.mp4) and the [Ending Soon](ending%20soon%20by%20bella.mp4) also draw heavily from this emote as well as another [reference](HimmySnuggly.png) he provided to the artist.  When confronted with this fact, they said it was because he [wanted the same](Wanted%20the%20same.png) which he never indicated.
 
 She then provided him with an updated version of the [emote](Bella%20Himmy%20static%20emote.png) with a different head in another style which didn't meet the original design specifications given with discussing the character, but this may have been because they said their mental state was disturbed by the interaction.
 
