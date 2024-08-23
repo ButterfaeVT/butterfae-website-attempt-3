@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/humantek-art/humantek-art-refined-v2/","tags":["gardenEntry"]}
 ---
 
-
-#Humantekart 
 Humantek is an art company that seems to have a lot of shady practices.  I have personally had a few issues with them, but after 3 of my friends overpaid for art from them that was well below their expectations, I decided to look into them a bit and once I started, it just seemed to look worse and worse at every turn.  I've decided to compile what I've found through browsing their websites, their social medias, and interviewing other people who have interacted with them in order to share my conclusions, but also to let potential clients of theirs draw their own more informed conclusions.
 
 # People I Interviewed About HTA
@@ -16,7 +14,7 @@ In order to give the most accurate information I can in this document, I have ta
 | NochuVT         | Artist, Contacted         |
 | Spaceman(Alias) | Client                    |
 | Nix             | Artist, Initiated Contact |
-| Puppers         | Client                    |
+| Sora(Alias)     | Client                    |
 | Brent           | Contacted                 |
 | Atty?           | Artist                    |
 | Wooien?         | Artist                    |
@@ -47,7 +45,9 @@ Many HumanTek artists will doorknock commissions even if you tell them that you 
 in a [blog post](https://humantekart.com/increasing-role-of-ai-in-the-animation-industry/) from their website on April 19th 2023, they say that AI has been movies as far back as the [2000's](https://drive.google.com/file/d/1SLt0gSqryYbgmPDxHSXnSnBShfGDms8O/view?usp=drive_link) with good reception.  I did some digging on this topic and came up empty, so this may be referencing depictions of AI such as the AI in A Space Odyssey, but this doesn't make much sense to me either.  They also said that artists [shouldn't fear the progress of AI in art](https://drive.google.com/file/d/1Xds804yq32mMxMnxeOlKBTVzS1AUMVNK/view?usp=drive_link) as it is more likely to spark creativity and innovation.  
 
 ## At Least Some of the Trustpilot Reviews and Probably Other Recommendations Are Faked
-I was lucky enough to speak to [Puppers19(AKA: SGTBLANK),](https://www.twitch.tv/puppers19) a previous client of Bliss_Bella who is the artist who started this whole investigation into the company on my part to begin with.  In talking to Puppers, he told me that the [Trustpilot review](https://drive.google.com/file/d/1X6foDJ2IaGzsBMazokSHfD-1cAzlDGum/view?usp=drive_link) of his commission which included a shoutout for her Vtuber models is fake as he never gave her a shoutout of any kind and his [model](https://booth.pm/en/items/4760563) was from TsukinoHana as stated in the [panels](https://drive.google.com/file/d/1WRyi5rktVV6RXyf1gI7fAQqrnqhd7sOH/view?usp=drive_link) of his about section on twitch.
+I was lucky enough to speak to some of the clients of Humantek and one of them told me that the Trustpilot review of his commission which included a shoutout for their Vtuber models is fake as they never gave a shoutout of any kind and their Vtuber was from an artist on the site [booth.](https://booth.pm/en) The specific people I talked to about their reviews who told me that they were faked wished to remain anonymous, so I will not be providing any specific names here, but if you look through their reviews on [Trustpilot](https://www.trustpilot.com/review/humantekart.com) there are a lot of positive reviews that seem overwhelmingly glowing, follow a pattern like a template, have very strange message structure and composition(speaking on the english reviews only as I do not speak the other languages I saw), and/or the reviewer usually only has 1 review.  
+
+As an additional pattern I found interesting, I skimmed the Trustpilot reviews and the dates they were posted and noticed that they were getting a lot of reviews within days of each other and also a lot of days where they would get multiple reviews on a single day.  There was a brief period where they received no reviews for 19 days, but that was the only time I saw a gap that long all the way back to January 2, 2024, which is about 8.5 months back at the time of writing this, most gaps being around 1 or 5 days, but almost always falling within that if not exactly that long of a gap.
 
 # General Shadiness
 In this category, I will outline and showcase what I feel are either sketchy, disrespectful, or just generally kinda icky practices of the artists or company.
@@ -77,3 +77,16 @@ Sometimes after finishing a commission, the artist will leave the server if they
 ## Why is Their Paypal at the Bottom of Their Website
 
 I know some people will just have their link to stuff like this in places, like on the back of their car with the tag, "Buy me a drink!" or something, but for a company to do it, it just seems like a really strange thing to do.  like if you were to go into a shop to buy something and they just had a bucket that said, "give us free money!" which is kinda just tipping culture, but that's usually reserved for after a service is rendered and is delivered at the same time as the payment for said service and not just a thing to do without reason.
+
+## They have five different addresses for four different branches
+
+The company posts its addresses for its 4 branches at the bottom of their [website](https://humantekart.com/) and also under their [contact us](https://humantekart.com/contact-us/) page.  That's a pretty normal thing for a business to do, but they have 5 different addresses for their 4 different branches.  The addresses at the [bottom of their page](https://drive.google.com/file/d/1GmJ_FZvrKErrIs2K0XSS6FIt-iStied2/view?usp=drive_link) are the ones people will usually see, but under the [contact](https://drive.google.com/file/d/168XwUIki3c0CN979bwKsI3jrdxiBhpf1/view?usp=drive_link) page, the UK branch leads to a different address that's roughly 90 miles away.
+
+| HTA Branch | Address                                                                | What's Actually There                                                              | Further notes                                                                                                                                                                 |
+| ---------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| US         | Unit #219 North Mai Ave 129, Scranton PA. US 18504                     | PostNet - Prints shop, designs, and shipping                                       |                                                                                                                                                                               |
+| UK 1       | Unit 3 L35 Premier House, Rolfe Street Smethwick West Midlands B66 2AA | no exact match, but the suggested closest match is a train station                 |                                                                                                                                                                               |
+| UK 2       | Flat 41u 4 Mann Island, Liverpool, Merseyside, United Kingdom, L3 1BP  | I'm not exactly sure what's here, but it looks like museums, and tourist locations |                                                                                                                                                                               |
+| Pakistan   | D-95, Block B, North Nazimabad, Karachi, Pakistan                      | looks like a department store, but unsure.                                         | This address pops up on google more in relation to the company so it is likely their main office is at least close to here.  Their YouTube seems to corroborate this as well. |
+| UAE        | Silicon Heights 1, DSO, Dubai                                          | Apartment complex                                                                  |                                                                                                                                                                               |
+I dont know why they have 5 addresses for 4 locations and why all of them lead to places where it seems they aren't, but it seems a bit strange as a company since having the wrong address makes it harder to contact them as a company.
