@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/human-tek-art/humantek-artists/"}
 ---
 
-[Humantek Art Refined V2](Humantek%20Art%20Refined%20V2.md) 
+[[HumanTek Art/Humantek Art Refined V2\|Humantek Art Refined V2]]
 
 | Name                      | Twitter                       | Portfolio if applicable                                                                   | Link to HumanTek Art                                                                                                                           |
 | ------------------------- | ----------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |

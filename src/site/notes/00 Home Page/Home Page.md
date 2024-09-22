@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-home-page/home-page/"}
+{"dg-publish":true,"permalink":"/00-home-page/home-page/","tags":["gardenEntry"]}
 ---
 
 # Welcome to Butterfae's Digital Garden!
@@ -7,4 +7,4 @@ Hi!  Welcome to my digital garden.  I think this is basically going to serve as 
 
 I dont have much else to say here right now, I just wanted to set up a home page for future things(hopefully coming soon)
 # Articles and Documents
-[Humantek Art Refined V2](Humantek%20Art%20Refined%20V2.md)
+[[HumanTek Art/Humantek Art Refined V2\|Humantek Art Refined V2]]

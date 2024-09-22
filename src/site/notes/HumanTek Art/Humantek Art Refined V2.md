@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/human-tek-art/humantek-art-refined-v2/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/human-tek-art/humantek-art-refined-v2/"}
 ---
 
-[Home Page](Home%20Page.md)
+[[00 Home Page/Home Page\|Home Page]]
 # Opening Remarks
 Humantek Art is an company that seems to have a lot of shady practices.  I have personally had a few issues with them and their artists in the past, but after 3 of my friends overpaid for art from them that was well below their expectations, I decided to look into them and once I started, it just got worse and worse at every turn.  I've decided to compile what I've found through browsing their websites, their social medias, and interviewing other people who have interacted with them in order to share my conclusions, but also to let potential clients of theirs draw their own conclusions with more information.
 
