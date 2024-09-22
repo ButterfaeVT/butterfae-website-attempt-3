@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/human-tek-art/humantek-art-refined-v2/"}
+{"dg-publish":true,"permalink":"/human-tek-art/humantek-art-refined-v2/","tags":["gardenEntry"]}
 ---
 
 [Home Page](Home%20Page.md)

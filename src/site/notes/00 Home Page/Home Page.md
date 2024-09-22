@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-home-page/home-page/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/00-home-page/home-page/"}
 ---
 
 # Welcome to Butterfae's Digital Garden!
